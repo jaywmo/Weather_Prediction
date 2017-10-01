@@ -1,5 +1,7 @@
 # Webcams, Predictions, and Weather
 
+This project uses scikit-learn machine learning libraries to predict weather based off of images and weather features. The machine learning model uses existing data to train on to predict new weather off of images and weather features. This project may greatly benefit from using big data tools like PySpark to run its code on.
+
 This project is made to work on the linux (Ubuntu) environment with 8gb of RAM. Please have at least 8gb of RAM to be able to run Training_model.py and Prediction_model.py.
 
 Setup:
